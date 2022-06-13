@@ -3,4 +3,11 @@
 
 
 ## Best Website For Practice c 
-#### <a href = "https://www.w3resource.com/c-programming-exercises/"> w3resource </a>
+#### 🎯 <a href = "https://www.w3resource.com/c-programming-exercises/"> w3resource.com </a>
+#### 🎯 <a href = "https://codeforwin.org/2015/05/basic-programming-practice-problems.html> codeforwin.org </a>
+#### 🎯 <a href = "https://www.javatpoint.com/c-programming-language-tutorial> javatpoint.com </a>
+#### 🎯 <a href = "https://www.programmingwithbasics.com/p/list-c-language-programs.html> programmingwithbasics.com </a>
+#### 🎯 <a href = "https://www.studytonight.com/c/programs/> studytonight.com </a>
+#### 🎯 <a href = "https://www.tutorialspoint.com/questions_and_answers.htm> tutorialspoint.com </a>
+           
+           

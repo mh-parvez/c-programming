@@ -1,6 +1,6 @@
 # 🏆 C programming full tutorial code 
 
-🔔 Update 🕗 Every Friday 
+C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.
    
 ## Best website for practice C 
 #### 🎯 https://www.w3resource.com/c-programming-exercises/
